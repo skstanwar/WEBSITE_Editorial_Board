@@ -1,0 +1,265 @@
+- name: Ritwik Kumar
+  bio: |
+    This is a multiline bio
+  position: Joint Chief Editor
+  social:
+    ig: meet_ritwik
+    fb: ritwik.kumar.963
+    li: ritwik-kumar-manit
+  pfp: ../../static/images/team/ritwik-kumar.png
+  pfp_alt: ../../static/images/team/ritwik-kumar-alt.png
+- name: Medhaa Chaklanabish
+  bio: |
+    I am an architecture undergrad who is easily fascinated by anything archaic. My ideal evening constitutes a comfy bed, a classic novel and my cat snuggled close to me.
+    <br />
+    By the time you read this, I would probably succumb to the temptation of watching another movie.
+  position: Joint Chief Editor and Chief Artist
+  social:
+    ig: meh_dhaa
+    fb: profile.php?id=100005017814395
+  pfp: ../../static/images/team/medhaa-chaklanabish.png
+  pfp_alt: ../../static/images/team/medhaa-chaklanabish-alt.png
+- name: Shantanu Choukikar
+  bio: |
+    You know those guys, who read War and Peace while curling dumbbells? I am one of them.
+  position: Chief English Editor
+  social:
+    ig: zippy_sean
+    fb: shantanu.choukikar
+    li: shantanu-choukikar
+  pfp: ../../static/images/team/shantanu-choukikar.png
+  pfp_alt: ../../static/images/team/shantanu-choukikar-alt.png
+- name: Nikita Parashar
+  bio: |
+    Just like Hindi gets along with any language, I get along with everyone.
+    <br />
+    मेरे अनुसार हिंदी बेहतर से बेहतरीन के सफ़र की अनूठी मार्गदर्शक हो सकती है।
+  position: Chief Hindi Editor
+  social:
+    fb: nikita.parashar.12
+    li: nikita-parashar-670263199
+  pfp: ../../static/images/team/nikita-parashar.png
+  pfp_alt: ../../static/images/team/nikita-parashar-alt.png
+- name: Jyoti Khatri
+  bio: |
+    On the classic real and fantasy line, a hodophile who believes to achieve the best.
+
+    I am very fond of this quote which says, <i>Miles to go before I sleep!</i>
+  position: Chief Designer
+  social:
+    ig: _jyotikhatri_
+    li: jyoti-khatri-913b94162
+  pfp: ../../static/images/team/jyoti-khatri.png
+  pfp_alt: ../../static/images/team/jyoti-khatri-alt.png
+- name: Dipanshu Vatsa
+  bio: |
+    Spoiler alert! I'm the funniest six-fingered dude you'll ever talk to.
+  position: English Editor
+  social:
+    ig: thepunshoe_
+    fb: dipanshu.vat
+    li: dipanshu-vatsa
+  pfp: ../../static/images/team/dipanshu-vatsa.png
+  pfp_alt: ../../static/images/team/dipanshu-vatsa-alt.png
+- name: Poorva Kale
+  bio: |
+    This is a multiline bio
+  position: Designer
+  social:
+    ig: _insight_art__
+    fb: poorva.kale.52
+    li: poorva-kale-1aa9691b3
+  pfp: ../../static/images/team/poorva-kale.png
+  pfp_alt: ../../static/images/team/poorva-kale-alt.png
+- name: Sankalp Mahajan
+  bio: |
+    I wouldn't dare limiting my description to a few lines, and neither do I expect it from you or anyone else. What I would appreciate, is for us to meet and have a conversation. I would love to know you.
+  position: English Editor
+  social:
+    ig: snklp1
+    fb: Sankalp Mahajan
+    li: sankalpnitb
+  pfp: ../../static/images/team/sankalp-mahajan.png
+  pfp_alt: ../../static/images/team/sankalp-mahajan-alt.png
+- name: Deepansh Gupta
+  bio: |
+    I enjoy reading anything as much as my attention span allows me. I also have an appetite for all kind of paradoxes.
+  position: Hindi Editor
+  social:
+    twt: deepanshanubhav
+    li: deepansh-gupta-865224192
+  pfp: ../../static/images/team/deepansh-gupta.png
+  pfp_alt: ../../static/images/team/deepansh-gupta-alt.png
+- name: Kavita Agrawal
+  bio: |
+    Well! To sum up myself, I am the binding material which holds everyone together and keeps them together
+    <br />
+    ...yes you guessed it correctly, I am the cement of my group (XD future civil engineer)
+  position: Hindi Editor
+  social:
+    fb: sankalp.mahajan.104
+    twt: Kavita18342048
+    li: kavita-agrawal-22a6b7194
+  pfp: ../../static/images/team/kavita-agrawal.png
+  pfp_alt: ../../static/images/team/kavita-agrawal-alt.png
+- name: Adviti Tuli
+  bio: |
+    A slothful food nerd and dog lover powering through life one caffeinated beverage at a time.
+    <br />
+    The celebration of food - the joy of creating something delicious - has always been, and continues to be, one of the finer pleasures of my life.
+    <br />
+    And yes - I might not look like it but I eat cake for breakfast. If you enjoy good music with delectable ;) food and great company then you have got a friend in me :)
+  position: Designer
+  social:
+    ig: advitituli
+    fb: adviti.tuli.5
+    twt: adviti_tuli
+    li: adviti-tuli-ba9723212
+  pfp: ../../static/images/team/adviti-tuli.png
+  pfp_alt: ../../static/images/team/adviti-tuli-alt.png
+- name: Raktim Mondol
+  bio: |
+    I believe conversations are not bound by physical attributes and success is not defined by social beliefs.
+  position: Designer
+  social:
+    ig: art_istbyhobby
+    fb: Raktim.Mandal.em
+  pfp: ../../static/images/team/raktim-mondol.png
+  pfp_alt: ../../static/images/team/raktim-mondol-alt.png
+- name: K S Smruthi
+  bio: |
+    I’m one of those people who always try to switch cookies with salads. I would like to give some gyaan about philosophy, people and life. My soul animal is sloth bear - eat, sleep and repeat. Ah, I’m in a monotonous relationship with architecture, the propinquity of cheap life and expensive equipment. Yearning for timelessness between random stress cycles, existing to predict the unpredictable.
+  position: Artist
+  social:
+    ig: _hazzy_soul_
+    fb: smruthi.srivathsan
+    li: smruthi-srivathsan-2a22a5203
+  pfp: ../../static/images/team/k-s-smruthi.png
+  pfp_alt: ../../static/images/team/k-s-smruthi-alt.png
+- name: Pushpita Patel
+  bio: |
+    Great admirer of surrealism. I would love to know about new personalities around me but wait!! You initiate the convo XD.
+  position: Artist
+  social:
+    ig: pushpita02.18
+    fb: profile.php?id=100012545385912
+    twt: PatelPushpita
+    li: pushpita-patel-b39850202
+  pfp: ../../static/images/team/pushpita-patel.png
+  pfp_alt: ../../static/images/team/pushpita-patel-alt.png
+- name: Metta Lokesh Kumar
+  bio: |
+    This is a multiline bio
+  position: Artist
+  social:
+    ig: lokesh_kumar_metta
+    li: metta-lokesh-kumar-09b749221
+  pfp: ../../static/images/team/metta-lokesh-kumar.png
+  pfp_alt: ../../static/images/team/metta-lokesh-kumar-alt.png
+- name: Seshal Jain
+  pfp: ../../static/images/team/seshal-jain.png
+  bio: |
+    Emacs fanboi, capitalization nazi. I like making beautiful interfaces, just like this website ;).
+    <br />
+    I sing old/chill Hindi songs. Lorem ipsum dolor sit ame quis, auctor elit sed rhoncus mattis rhoncus.
+    Do <i>not</i> ask me about my shitposts on Twitter!
+  position: Web Developer
+  social:
+    ig: seshalja.in
+    fb: seshaljain
+    twt: seshaljain
+    li: seshaljain
+- name: Ansh Kaushik
+  bio: |
+    This is a multiline bio
+  position: Web Developer
+  social:
+    ig: anshkaushik05
+    fb: ansh.kaushik.946954
+    twt: Xenomorph0504
+    li: ansh-kaushik
+  pfp: ../../static/images/team/ansh-kaushik.png
+  pfp_alt: ../../static/images/team/ansh-kaushik-alt.png
+- name: Aastha Dwivedi
+  bio: |
+    An emotional soul with sheer affection towards music. When under the weather, I prefer sleeping or crying my eyes out. Talk to me and find me amiable.
+  position: English Editor
+  social:
+    ig: dwivedi.aastha01
+    li: aastha-dwivedi-44a39a212
+  pfp: ../../static/images/team/aastha-dwivedi.png
+  pfp_alt: ../../static/images/team/aastha-dwivedi-alt.png
+- name: Aniket Sharma
+  bio: |
+    So, basically… I'm a self aware eccentric with heightened addiction to literature and pop culture. When I'm not neck deep into that, my time is occupied by various branches of art and food.
+  position: English Editor
+  social:
+    ig: i_m_aniket1149
+    li: aniket-sharma-b86585221
+  pfp: ../../static/images/team/aniket-sharma.png
+- name: Pratyaksha Sharma
+  bio: |
+    This is a multiline bio
+  position: Hindi Editor
+  social:
+    ig: pratyaksha_07
+    fb: sharma.pratyaksha
+    li: pratyakshasharma
+  pfp: ../../static/images/team/pratyaksha-sharma.png
+- name: Vaishnavi Jaiswal
+  bio: |
+    This is a multiline bio
+  position: Hindi Editor
+  social:
+    ig: _vaishnavi__jaiswal__
+    li: vaishnavi-jaiswal-75b167219
+  pfp: ../../static/images/team/vaishnavi-jaiswal.png
+- name: Aditi Singh
+  bio: |
+    I want LEGO bricks to be domesticated…
+    <br />
+    It's all a matter of perspective ;)
+  position: Designer
+  social:
+    ig: aditisingh_12_
+    twt: AditiSi98791088
+  pfp: ../../static/images/team/aditi-singh.png
+  pfp_alt: ../../static/images/team/aditi-singh-alt.png
+- name: Owais Hashmi
+  bio: |
+    This is a multiline bio
+  position: Designer
+  social:
+    ig: owaishashmi2001
+    fb: owais.hashmi.35325
+    twt: owaishashmi2001
+    li: owaishashmi2001
+  pfp: ../../static/images/team/owais-hashmi.png
+  pfp_alt: ../../static/images/team/owais-hashmi-alt.png
+- name: Suraj Nigam
+  bio: |
+    This is a multiline bio
+  position: Designer
+  social:
+    ig: surajnigam232
+    fb: suraj.nigam.3720
+    li: suraj-nigam-13b5a6195
+  pfp: ../../static/images/team/suraj-nigam.png
+  pfp_alt: ../../static/images/team/suraj-nigam-alt.png
+- name: Garima Dhurvey
+  bio: |
+    I am an impatient soul, partly because everything interests me but nothing holds me. I like exploring and learning new things. Being lost in the process of creating art gives me peace while dancing to the sound of any music is what I love the most. I've been a dancer for as long as I can remember, it has become a part of me.
+  position: Artist
+  social:
+    ig: _garima_11_
+    li: garima-dhurvey-2b3555209
+  pfp: ../../static/images/team/garima-dhurvey.png
+  pfp_alt: ../../static/images/team/garima-dhurvey-alt.png
+- name: Mohammad Shehzad N A
+  bio: |
+    This is a multiline bio
+  position: Artist
+  social:
+    ig: pvzyays
+  pfp: ../../static/images/team/mohammad-shehzad.png
+  pfp_alt: ../../static/images/team/mohammad-shehzad-alt.png

@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  branch: netlify
+
+# local_backend: true
+
+media_folder: static/images/uploads
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "src/collections/posts"
+    path: "{{slug}}/index"
+    create: true
+    media_folder: "images"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          time_format: false,
+          date_format: "YYYY-MM-DD",
+        }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Featured Image", name: "featuredImage", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }

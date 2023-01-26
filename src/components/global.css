@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply text-gray-800;
+  }
+}
+
+@layer utilities {
+  .bg-dots {
+    background-image: radial-gradient(#164e63 8%, transparent 0);
+    background-size: 1rem 1rem;
+  }
+}
