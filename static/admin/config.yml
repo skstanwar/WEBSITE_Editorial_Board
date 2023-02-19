@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: skstanwar/WEBSITE_Editorial_Board
   branch: netlify
 
 # local_backend: true
