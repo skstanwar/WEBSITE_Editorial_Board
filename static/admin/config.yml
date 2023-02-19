@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: skstanwar/WEBSITE_Editorial_Board
   branch: master
 
 # local_backend: true
